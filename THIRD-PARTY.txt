@@ -1,0 +1,28 @@
+Lists of third-party dependencies.
+
+// liveBooster_md5 //
+
+md5.c - MD5 Message-Digest Algorithm (RFC 1321)
+Copyright (c) 2001 Alexander Peslyak
+
+You may find the original source code on the following website: http://openwall.info/wiki/people/solar/software/public-domain-source-code/md5
+
+
+// MQTTpacket //
+
+paho.mqtt.embedded-c - v1.1.0
+Copyright (c) 2009, 2014 IBM Corp.
+
+paho.mqtt.embedded-c is distributed under the terms and conditions of :
+ * Eclipse Public License v1.0 (https://www.eclipse.org/legal/epl-v10.html).
+ * Eclipse Distribution License - v 1.0 (see https://www.eclipse.org/org/documents/edl-v10.php)
+You may download the source code on the following website: https://github.com/eclipse/paho.mqtt.embedded-c
+
+// jsonParser //
+
+jsmn - (the latest, at least #1682c32e9ae5990ddd0f0e907270a0f6dde5cbe9)
+Copyright (c) 2010 Serge A. Zaitsev
+
+jsmn is distributed under the terms and conditions of the MIT license (https://github.com/zserge/jsmn/blob/master/LICENSE).
+You may download the source code on the following website: https://github.com/zserge/jsmn
+

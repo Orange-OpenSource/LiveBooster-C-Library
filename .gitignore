@@ -1,0 +1,11 @@
+
+# Binaries
+**/Debug/
+**/Release/
+
+# Eclipse
+**/local.properties
+**/.settings/
+**/sloeber.ino.cpp
+**/BUILD/
+**/*.html
